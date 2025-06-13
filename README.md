@@ -82,6 +82,8 @@ jobs:
 
 ⚠️ * if `auto_approve` is set to `true` you must provide a personal access token in `token` the default github token won't work! 
 
+⚠️ `pr_reviewers` is a string of usernames separated by commas! _e.g._ `'myUsename,otherUsername'`
+
 # Alternatives
 
 Pull Github App - https://github.com/wei/pull
