@@ -72,6 +72,7 @@ jobs:
 |   merge_method  | ✅          | merge                  |   merge, rebase or squash                            |
 |   pr_title      | ✅          | Fork Sync              |   Title of the created pull request                  |
 |   pr_message    | ✅          |                        |   Message of the created pull request                |
+|   pr_reviewers  | ✅          |                        |   Users to request reviews from                      |
 |   ignore_fail   | ✅          |                        |   Ignore Exceptions                                  |
 
 ⚠️ $current_repo_owner is your own username!
